@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: protocol://domain/sitemap.xml
+Sitemap: https://dmitriibundin.github.io/sitemap.xml
